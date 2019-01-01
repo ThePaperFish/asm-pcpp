@@ -1,0 +1,6 @@
+﻿  PCPPasm.cpp
+d:\onedrive\le\programming\vs2015\pcppasm\pcppasm\obj_medicine.h(62): warning C4018: '<': signed/unsigned mismatch
+d:\onedrive\le\programming\vs2015\pcppasm\pcppasm\d_product_admin_view.h(38): warning C4018: '<': signed/unsigned mismatch
+d:\onedrive\le\programming\vs2015\pcppasm\pcppasm\d_product_admin_view.h(73): warning C4018: '<=': signed/unsigned mismatch
+  PCPPasm.vcxproj -> D:\OneDrive\LE\programming\VS2015\PCPPasm\Debug\PCPPasm.exe
+  PCPPasm.vcxproj -> D:\OneDrive\LE\programming\VS2015\PCPPasm\Debug\PCPPasm.pdb (Full PDB)
