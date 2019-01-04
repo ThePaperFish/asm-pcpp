@@ -36,7 +36,7 @@ public:
 		return 0;
 	}
 
-	virtual int run(int option) {
+	virtual int run(string option) {
 		return 0;
 	}
 

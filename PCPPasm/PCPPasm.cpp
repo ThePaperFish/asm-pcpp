@@ -30,19 +30,24 @@ using namespace std;
 //	•	Display the bill based on the quantity you have entered
 
 
-
 int main()
 {
 
 	d_base *menu = NULL;
-	int option;
+	string option;
 
 	menu = new d_product_admin_view();
 
+	string hi = "asdf";
+
 	while (true)
 	{
+		system("cls");
+
+		//printf("|%5s|%5s|%5s|", hi, hi, hi);
 		menu->show();
 		cin >> option;
+
 		int result = menu->run(option);
 
 		if (result  == 0)
@@ -59,7 +64,7 @@ int main()
 		else
 		{
 			cout << "Error: Please enter a valid option.\n";
-			system("cls");
+			system("pause > NULL");
 			continue;
 		}
 

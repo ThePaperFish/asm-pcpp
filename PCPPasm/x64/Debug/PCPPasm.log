@@ -1,0 +1,10 @@
+﻿  PCPPasm.cpp
+d:\onedrive\le\programming\github\asm-pcpp\pcppasm\obj_medicine.h(45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\onedrive\le\programming\github\asm-pcpp\pcppasm\obj_medicine.h(120): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\onedrive\le\programming\github\asm-pcpp\pcppasm\obj_medicine.h(126): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\onedrive\le\programming\github\asm-pcpp\pcppasm\obj_medicine.h(129): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\onedrive\le\programming\github\asm-pcpp\pcppasm\obj_medicine.h(150): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\onedrive\le\programming\github\asm-pcpp\pcppasm\obj_medicine.h(158): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\onedrive\le\programming\github\asm-pcpp\pcppasm\obj_medicine.h(162): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PCPPasm.vcxproj -> D:\OneDrive\LE\programming\Github\asm-pcpp\x64\Debug\PCPPasm.exe
+  PCPPasm.vcxproj -> D:\OneDrive\LE\programming\Github\asm-pcpp\x64\Debug\PCPPasm.pdb (Full PDB)
